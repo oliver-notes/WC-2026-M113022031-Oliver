@@ -1,4 +1,4 @@
-# Wireless Communications Study Notes Template
+# Wireless Communications Study Notes
 ###### tags: `Wireless Communications`
 
 ## :notebook_with_decorative_cover: Personal Information
